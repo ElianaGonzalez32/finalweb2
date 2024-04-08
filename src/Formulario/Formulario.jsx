@@ -1,21 +1,41 @@
 import { useState } from "react"
 import { useNavigate } from "react-router-dom"
 
+import baseDatosIps from "../utils/baseDatosIps.json"
+
+import swal from "sweetalert2"
+
 
 export function Formulario(){
     const[VerNit,guardarNit]=useState("")
     const[verCedula,guardarCedula]=useState("")
     const[verContraseña,guardarContraseña]=useState("")
-    //para navegar entre componentes  debo 
-    // declarar una variable que almacene el hook
+    
+
+
     let enrutador=useNavigate()
 
     function procesarFormulario(evento){
-        //que hago si le hacen clic al boton del formulario?
+       
         evento.preventDefault() 
         
-        //voy a enrutar otro componente(¿como lanzo un componente desde otro?)
-        enrutador("./home")
+       let busqueda=baseDatosIps.find(function(ips){
+        return(ips.nit==VerNit)
+       })
+
+       if (busqueda==undefined) {
+        Swal.fire({
+            icon: "error",
+            title: "Oops...",
+            text: "Something went wrong!",
+            footer: '<a href="#">Why do I have this issue?</a>'
+          });
+    } else {
+        
+        enrutador("/home")
+    }
+
+
     }
 
     return(

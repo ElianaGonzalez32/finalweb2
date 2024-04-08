@@ -1,21 +1,17 @@
-import {Routes, Route} from "react-router-dom"
-
+import {Home} from "../Home/Home"
 import { Formulario } from "../Formulario/Formulario"
-import { Home } from "../Home/Home"
 
+import {Routes,Route} from "react-router-dom"
 
 export function Rutas(){
 
     return(
-
-
         <>
-
-        <Routes>
-            <Route path="/" element={<Home></Home>}></Route>
-        </Routes>
-        
-        
+            <Routes>
+                <Route path="/" element={<Formulario></Formulario>}></Route>
+                <Route path="/home" element={<Home></Home>}></Route>
+            </Routes>
         </>
     )
+
 }

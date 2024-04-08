@@ -1,0 +1,396 @@
+[
+  {
+    "ips": "Clinica Medellin",
+    "nit": "890911816",
+    "cedula": "1007450330",
+    "Funcionario": "Dora Echeverry",
+    "contraseña": "1234",
+  
+    "responsables": [
+      {
+          "gestor": "Marcela Restrepo",
+          "correoGestor":"mrestepov@sura.com.co",
+          "CelGestor": "315423898"
+      },    
+      {
+          "Convenios":"Martha Silvia Aristizabal",
+          "correoConvenios":"msaristizabal@sura.com.co",
+          "CelConvenios": "315423800"
+      },
+      {
+          "Hospitalarias":"Lina Maria Quintero",
+          "correoHospitalarias":"lmquintero@sura.com.co",
+          "CelHospitalarias": "3104506789"
+      },
+      {
+          "ambulatorias":"Estefania Villota",
+      "correoAmbulatorias":"esvillota@sura.com.co",
+      "CelAmbulatorias": "3104506789"
+      }
+      
+
+    ]
+  },
+  {
+      "ips": "Clinica CES",
+      "nit": "890982608",
+      "cedula": "1007330456",
+      "Funcionario": "Willintong Bedoya",
+      "contraseña": "1234", 
+    
+      "responsables": [
+        {
+            "gestor": "Juan Dario Bustamante",
+            "correoGestor":"jbustamante@sura.com.co",
+            "CelGestor": "310423898"
+        },    
+        {
+            "Convenios":"Nataly  Delgado",
+            "correoConvenios":"ndelgado@sura.com.co",
+            "CelConvenios": "315423800"
+        },
+        {
+            "Hospitalarias":"Maria Victoria Roldan",
+            "correoHospitalarias":"mvroldan@sura.com.co",
+            "CelHospitalarias": "3104506789"
+        },
+        {
+            "ambulatorias":"Cristina Taborda",
+        "correoAmbulatorias":"cetaborda@sura.com.co",
+        "CelAmbulatorias": "3104506789"
+        }
+        
+
+      ]
+    },
+
+    {
+      "ips": "Organización Clinica Santa Lucia",
+      "nit": "8909006508",
+      "cedula": "43436620",
+      "Funcionario": "Karina Cadavid",
+      "contraseña": "1234",
+    
+      "responsables": [
+        {
+            "gestor": "Tatiana patiño",
+            "correoGestor":"tpatiño@sura.com.co",
+            "CelGestor": "310423898"
+        },    
+        {
+            "Convenios":"Isabel Ortiz",
+            "correoConvenios":"lortiz@sura.com.co",
+            "CelConvenios": "315423800"
+        },
+        {
+            "Hospitalarias":"Lina Maria Quintero",
+            "correoHospitalarias":"lmquintero@sura.com.co",
+            "CelHospitalarias": "3104506789"
+        },
+        {
+            "ambulatorias":"Estefania Villota",
+        "correoAmbulatorias":"esvillota@sura.com.co",
+        "CelAmbulatorias": "3104506789"
+        }
+        
+
+      ]
+    },
+
+    {
+      "ips": "Clinica Las Americas",
+      "nit": "800067065",
+      "cedula": "8746522",
+      "Funcionario": "Juan Carlos Arboleda",
+      "contraseña": "1234",
+    
+      "responsables": [
+        {
+            "gestor": "Eliana Gonzalez",
+            "correoGestor":"emgonzalez@sura.com.co",
+            "CelGestor": "310423898"
+        },    
+        {
+            "Convenios":"Nataly  Delgado",
+            "correoConvenios":"ndelgado@sura.com.co",
+            "CelConvenios": "315423800"
+        },
+        {
+            "Hospitalarias":"Maria Victoria Roldan",
+            "correoHospitalarias":"mvroldan@sura.com.co",
+            "CelHospitalarias": "3104506789"
+        },
+        {
+            "ambulatorias":"Cristina Taborda",
+        "correoAmbulatorias":"cetaborda@sura.com.co",
+        "CelAmbulatorias": "3204506780"
+        }
+        
+
+      ]
+    },
+
+    {
+      "ips": "CLOFAN",
+      "nit": "890933408",
+      "cedula": "1110650430",
+      "Funcionario": "Natalia Hurtado",
+      "contraseña": "1234",
+    
+      "responsables": [
+        {
+            "gestor": "Julian Amaya",
+            "correoGestor":"jamaya@sura.com.co",
+            "CelGestor": "310423898"
+        },    
+        {
+            "Convenios":"Martha Silvia Aristizabal",
+            "correoConvenios":"msaristizabal@sura.com.co",
+            "CelConvenios": "315423800"
+        },
+        {
+            "Hospitalarias":"Lina Maria Quintero",
+            "correoHospitalarias":"lmquintero@sura.com.co",
+            "CelHospitalarias": "3104506789"
+        },
+        {
+            "ambulatorias":"Estefania Villota",
+        "correoAmbulatorias":"esvillota@sura.com.co",
+        "CelAmbulatorias": "3204506780"
+        }
+        
+
+      ]
+    },
+
+    {
+      "ips": "Clinica del Prado",
+      "nit": "890938774",
+      "cedula": "123568377",
+      "Funcionario": "Monica Ruiz",
+      "contraseña": "1234",
+    
+      "responsables": [
+        {
+            "gestor": "Mara Pabon",
+            "correoGestor":"mcpabon@sura.com.co",
+            "CelGestor": "310423898"
+        },    
+        {
+            "Convenios":"Nataly  Delgado",
+            "correoConvenios":"ndelgado@sura.com.co",
+            "CelConvenios": "315423800"
+        },
+        {
+            "Hospitalarias":"Maria Victoria Roldan",
+            "correoHospitalarias":"mvroldan@sura.com.co",
+            "CelHospitalarias": "3104506789"
+        },
+        {
+            "ambulatorias":"Cristina Taborda",
+        "correoAmbulatorias":"cetaborda@sura.com.co",
+        "CelAmbulatorias": "3204506780"
+        }
+        
+
+      ]
+    },
+
+
+    {
+      "ips": "Cruz Verde",
+      "nit": "800149695",
+      "cedula": "1112441941",
+      "Funcionario": "Andrea Mejia",
+      "contraseña": "1234",
+    
+      "responsables": [
+        {
+            "gestor": "Eliana Gonzalez",
+            "correoGestor":"emgonzalez@sura.com.co",
+            "CelGestor": "315423898"
+        },    
+        {
+            "Convenios":"Martha Silvia Aristizabal",
+            "correoConvenios":"msaristizabal@sura.com.co",
+            "CelConvenios": "315423800"
+        },
+        {
+            "Hospitalarias":"Lina Maria Quintero",
+            "correoHospitalarias":"lmquintero@sura.com.co",
+            "CelHospitalarias": "3104506789"
+        },
+        {
+            "ambulatorias":"Estefania Villota",
+        "correoAmbulatorias":"esvillota@sura.com.co",
+        "CelAmbulatorias": "3104506789"
+        }
+        
+
+      ]
+    },
+    {
+        "ips": "Clinica Conquistadores",
+        "nit": "890925336",
+        "cedula": "1017145416",
+        "Funcionario": "Marta Vargas",
+        "contraseña": "1234",
+      
+        "responsables": [
+          {
+              "gestor": "Juan Dario Bustamante",
+              "correoGestor":"jbustamante@sura.com.co",
+              "CelGestor": "310423898"
+          },    
+          {
+              "Convenios":"Nataly  Delgado",
+              "correoConvenios":"ndelgado@sura.com.co",
+              "CelConvenios": "315423800"
+          },
+          {
+              "Hospitalarias":"Maria Victoria Roldan",
+              "correoHospitalarias":"mvroldan@sura.com.co",
+              "CelHospitalarias": "3104506789"
+          },
+          {
+              "ambulatorias":"Cristina Taborda",
+          "correoAmbulatorias":"cetaborda@sura.com.co",
+          "CelAmbulatorias": "3104506789"
+          }
+          
+  
+        ]
+      },
+
+      {
+        "ips": "ESE Hospital Mental",
+        "nit": "890905166",
+        "cedula": "21490407",
+        "Funcionario": "Luisa Cortes",
+        "contraseña": "1234",
+      
+        "responsables": [
+          {
+              "gestor": "Tatiana patiño",
+              "correoGestor":"tpatiño@sura.com.co",
+              "CelGestor": "310423898"
+          },    
+          {
+              "Convenios":"Isabel Ortiz",
+              "correoConvenios":"lortiz@sura.com.co",
+              "CelConvenios": "315423800"
+          },
+          {
+              "Hospitalarias":"Lina Maria Quintero",
+              "correoHospitalarias":"lmquintero@sura.com.co",
+              "CelHospitalarias": "3104506789"
+          },
+          {
+              "ambulatorias":"Estefania Villota",
+          "correoAmbulatorias":"esvillota@sura.com.co",
+          "CelAmbulatorias": "3104506789"
+          }
+          
+  
+        ]
+      },
+
+      {
+        "ips": "El Comite de rehabilitacion",
+        "nit": "890981590",
+        "cedula": "45292489",
+        "Funcionario": "Maria Consuelo Angel",
+        "contraseña": "1234",
+      
+        "responsables": [
+          {
+              "gestor": "Eliana Gonzalez",
+              "correoGestor":"emgonzalez@sura.com.co",
+              "CelGestor": "310423898"
+          },    
+          {
+              "Convenios":"Nataly  Delgado",
+              "correoConvenios":"ndelgado@sura.com.co",
+              "CelConvenios": "315423800"
+          },
+          {
+              "Hospitalarias":"Maria Victoria Roldan",
+              "correoHospitalarias":"mvroldan@sura.com.co",
+              "CelHospitalarias": "3104506789"
+          },
+          {
+              "ambulatorias":"Cristina Taborda",
+          "correoAmbulatorias":"cetaborda@sura.com.co",
+          "CelAmbulatorias": "3204506780"
+          }
+          
+  
+        ]
+      },
+
+      {
+        "ips": "Oigamos SAS",
+        "nit": "900237556",
+        "cedula": "45829602",
+        "Funcionario": "Liliana Botero",
+        "contraseña": "1234",
+      
+        "responsables": [
+          {
+              "gestor": "Julian Amaya",
+              "correoGestor":"jamaya@sura.com.co",
+              "CelGestor": "310423898"
+          },    
+          {
+              "Convenios":"Martha Silvia Aristizabal",
+              "correoConvenios":"msaristizabal@sura.com.co",
+              "CelConvenios": "315423800"
+          },
+          {
+              "Hospitalarias":"Lina Maria Quintero",
+              "correoHospitalarias":"lmquintero@sura.com.co",
+              "CelHospitalarias": "3104506789"
+          },
+          {
+              "ambulatorias":"Estefania Villota",
+          "correoAmbulatorias":"esvillota@sura.com.co",
+          "CelAmbulatorias": "3204506780"
+          }
+          
+  
+        ]
+      },
+
+      {
+        "ips": "Vasculab",
+        "nit": "811008372",
+        "cedula": "3505171",
+        "Funcionario": "Camilo Garavito",
+        "contraseña": "1234",
+      
+        "responsables": [
+          {
+              "gestor": "Mara Pabon",
+              "correoGestor":"mcpabon@sura.com.co",
+              "CelGestor": "310423898"
+          },    
+          {
+              "Convenios":"Nataly  Delgado",
+              "correoConvenios":"ndelgado@sura.com.co",
+              "CelConvenios": "315423800"
+          },
+          {
+              "Hospitalarias":"Maria Victoria Roldan",
+              "correoHospitalarias":"mvroldan@sura.com.co",
+              "CelHospitalarias": "3104506789"
+          },
+          {
+              "ambulatorias":"Cristina Taborda",
+          "correoAmbulatorias":"cetaborda@sura.com.co",
+          "CelAmbulatorias": "3204506780"
+          }
+          
+  
+        ]
+      }
+]
